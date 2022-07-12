@@ -1,0 +1,99 @@
+# High Level Design:
+
+Important Concepts
+1. Scalability
+2. Performance
+3. Latency and Throughput
+4. Consistency
+5. Availability
+6. Partition Tolerance
+7. CAP Theorem
+8. Domain Name System
+9. Content Delivery Network
+10. Load Balancers and Reverse Proxy
+11. Microservices
+12. Databases
+13. Caching
+14. Message Queues
+
+System Design Primer - https://github.com/donnemartin/system-design-primer
+Educative.io course - https://www.educative.io/courses/grokking-the-system-design-interview
+
+Standard Questions
+1. Pastebin
+2. TinyURL
+3. Uber
+4. BookMyShow
+5. Twitter Feed
+6. Facebook Messenger
+7. Search in Instagram
+8. Video Streaming Service
+
+System Design template - https://leetcode.com/discuss/career/229177/My-System-Design-Template
+
+Netflix Blog - https://netflixtechblog.com/
+Uber Engg Blog - https://eng.uber.com/
+Google Developers - https://developers.googleblog.com/
+High Scalability - http://highscalability.com/
+
+# Low Level Design: (Machine Coding Round/ Object Oriented Round)
+
+Important OOP Concepts
+1. Object
+2. Class
+3. Inheritance
+4. Polymoprhism
+5. Abstraction
+6. Encapsulation
+
+Javatpoint learn Java and OOP in JAVA -https://www.javatpoint.com/java-tutorial
+Javatpoint learn Python and OOP in Python - https://www.javatpoint.com/python-tutorial
+Javatpoint learn C++ and OOP in C++ - https://www.javatpoint.com/cpp-oops-concepts
+
+HeadFirst JAVA book PDF - https://www.rcsdk12.org/cms/lib/NY01001156/Centricity/Domain/4951/Head_First_Java_Second_Edition.pdf
+(If you have more time)
+
+Design Patterns - 
+
+Important Design Patterns
+1. Singleton
+2. Factory
+3. Abstract Factory
+4. Builder
+5. Adapter
+6. Decorator
+7. Strategy
+8. Observer
+9. Facade
+
+Resources -
+1. TutorialsPoint - https://www.tutorialspoint.com/design_pattern/index.htm
+2. OODesign - https://www.oodesign.com/design-principles
+
+SOLID Principles - 
+1. https://www.oodesign.com/design-principles
+2. https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898
+
+Object oriented analysis and design - UML, class diagrams, sequence diagrams, use case diagrams
+
+Implementation Research Papers:
+1. https://cseweb.ucsd.edu//~wgg/CSE210/ecoop93-patterns.pdf
+2. http://www.cs.unibo.it/~cianca/wwwpages/ids/esempi/coffee.pdf
+
+Standard Problems
+1. Parking Lot
+2. 2-P games like Chess, Carrom, TicTacToe
+3. Elevator
+4. Caching Library
+5. Ticket Booking System like BookMyShow
+6. BlackJack
+7. Book Management System 
+8. ATM
+9. Hotel Management System
+
+Resources - 
+1. Problems PDF - https://www.andiamogo.com/S-OOD.pdf
+2. Educative.io course - https://www.educative.io/courses/grokking-the-object-oriented-design-interview
+
+Practice from - 
+Leetcode discuss - https://leetcode.com/discuss/interview-question/object-oriented-design?currentPage=1&orderBy=hot&query
